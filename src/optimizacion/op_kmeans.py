@@ -1,5 +1,4 @@
 from src.entrenamiento.kmeans import X_escalado
-
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
